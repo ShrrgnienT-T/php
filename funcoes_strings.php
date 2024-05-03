@@ -14,7 +14,7 @@
     echo $texto. '<br />';
     echo strtolower($texto);
     echo '<hr/>';
-
+-
     //string to upper
     echo $texto. '<br />';
     echo strtoupper($texto);
